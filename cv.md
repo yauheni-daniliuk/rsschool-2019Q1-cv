@@ -21,9 +21,9 @@ I try to take time to learn English and web technologies.
 ## Experience  
 [https://github.com/yauheni-daniliuk](https://github.com/yauheni-daniliuk)  
 ## Education  
-**Belorussian National Technical University**  
+1. **Belorussian National Technical University**  
 - Autotractor faculty, mechanical engineer (2008-2013).   
-**Codecademy**   
+2. **Codecademy**   
 - Introduction to HTML;   
 - Learn CSS;  
 - Learn SQL;  
