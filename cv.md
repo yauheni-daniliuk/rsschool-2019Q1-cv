@@ -2,8 +2,7 @@
 ## Contacts  
 - phone: +375 29 801 91 28  
 - e-mail: eugene.daniliuk@gmail.com
-- LinkedIn: [https://www.linkedin.com/in/yauheni-daniliuk-24a21614a]
-(https://www.linkedin.com/in/yauheni-daniliuk-24a21614a)  
+- LinkedIn: [my account](https://www.linkedin.com/in/yauheni-daniliuk-24a21614a)  
 ## Summary  
 I'm an engineer. My reasons to change a specialization are flexible schedule, 
 independence, the opportunity for growth and development, confidence in the 
