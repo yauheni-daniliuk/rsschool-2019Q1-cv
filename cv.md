@@ -10,7 +10,7 @@ future. My goal is to start my career as a Front-end developer and achieve fine
 results in this area. I’m an intelligent, responsible person, hardworking, team 
 player with good communication skills. I have experience in managing people and 
 running the enterprises. I am ready to achieve my goals, learn new things and 
-improve.I study programming and English myself using online courses. Every day 
+improve. I study programming and English myself using online courses. Every day 
 I try to take time to learn English and web technologies.  
 ## Skills  
 - ***HTML;*** 
@@ -21,9 +21,9 @@ I try to take time to learn English and web technologies.
 ## Experience  
 [https://github.com/yauheni-daniliuk](https://github.com/yauheni-daniliuk)  
 ## Education  
-1. **Belorussian National Technical University**  
+### Belorussian National Technical University  
 - Autotractor faculty, mechanical engineer (2008-2013).   
-2. **Codecademy**   
+### Codecademy    
 - Introduction to HTML;   
 - Learn CSS;  
 - Learn SQL;  
