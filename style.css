@@ -1,10 +1,11 @@
 body {
     width: 1020px;
-    padding-top: 20px;
-    font-weight: 500;
-    font-size: 20px;  
-    font-family: 'Titillium Web', 'Arial', sans-serif;
-    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 30px;
+    padding-bottom: 30px; 
+    font-family: "Overpass", "Arial", sans-serif;
+    text-align: justify;
     background: #e6f4f4;
 }
 
@@ -12,6 +13,13 @@ h1 {
     margin: 10px 0 20px 0;
     font-weight: 700;
     font-size: 28px;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 h2 {
@@ -19,6 +27,7 @@ h2 {
     padding: 10px;
     font-weight: 800;
     font-size: 24px;
+    text-align: center;
     background: #21ba68;
 }
 
@@ -27,7 +36,7 @@ h2 {
     height: 100px;
     margin-left: auto;
     margin-right: auto;
-    padding-top: 5px;
+    padding: 5px 15px 0 15px;
     background: #bed8d2;
 }
 
@@ -39,18 +48,27 @@ h2 {
 }
 
 p {
-    font-weight: 500;
-    line-height: 24px; 
+    margin: 0 10px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
 }
 
 li {
-    margin: 8px 0;
+    margin: 10px 0 0 50px;
     font-style: italic;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+div {
+    margin-left: 50px;
 }
 
 h3 {
     margin: 10px 0;
     padding: 5px;
     font-weight: 700;
-    font-size: 20px;
+    font-size: 22px;
+    text-align: center;
 }
